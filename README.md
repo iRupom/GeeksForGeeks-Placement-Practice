@@ -1,1 +1,1 @@
-# GeeksForGeeks-Placement-Practice
+# GeeksForGeeks Placement Course Series Practice
